@@ -88,8 +88,8 @@ The Appium test script performs the following sequence of gestures on the AR obj
 
 | Gesture | Image | Description |
 | :--- | :--- | :--- |
-| **Tap** | ![Object Placed](images/screenshot_Tap [Place Object]_after_1764626642.png) | Places a new 3D object on the screen and selects it. |
-| **Long Press** | ![Object Reset](images/screenshot_LongPress [Reset]_after_1764626659.png) | Resets the object's scale and rotation back to initial values. |
-| **Drag & Drop** | ![Object Moved](images/screenshot_DragDrop [Move Object]_after_1764626674.png) | Moves the object to a new screen location (note the change in coordinates in the Coords Bridge). |
-| **Pinch Out** | ![Object Grown](images/screenshot_PinchOut [Grow]_after_1764626687.png) | Increases the object's scale (grows the object). |
-| **Pinch In** | ![Object Shrunk](images/screenshot_PinchIn [Shrink]_after_1764626702.png) | Decreases the object's scale (shrinks the object). |
+| **Tap** | ![Object Placed](images/tap_after.png) | Places a new 3D object at **(206, 379)** and selects it. |
+| **Long Press** | ![Object Reset](images/longpress_after.png) | Resets the object's scale and rotation back to initial values. |
+| **Drag & Drop** | ![Object Moved](images/dragdrop_after.png) | Moves the object to a new screen location, now at **(319, 161)**. |
+| **Pinch Out** | ![Object Grown](images/pinchout_after.png) | Increases the object's scale (grows the object). |
+| **Pinch In** | ![Object Shrunk](images/pinchin_after.png) | Decreases the object's scale (shrinks the object). |
