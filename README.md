@@ -88,8 +88,8 @@ The Appium test script performs the following sequence of gestures on the AR obj
 
 | Gesture | Image | Description |
 | :--- | :--- | :--- |
-| **Tap** | ![Object Placed](images/screenshot_Tap [Place Object]_after_1764626642.jpg) | Places a new 3D object on the screen and selects it_after_1764626642.jpg]. |
-| **Long Press** | ![Object Reset](images/screenshot_LongPress [Reset]_after_1764626659.jpg) | Resets the object's scale and rotation back to initial values_after_1764626659.jpg]. |
-| **Drag & Drop** | ![Object Moved](images/screenshot_DragDrop [Move Object]_after_1764626674.jpg) | Moves the object to a new screen location (note the change in coordinates in the Coords Bridge)_after_1764626674.jpg]. |
-| **Pinch Out** | ![Object Grown](images/screenshot_PinchOut [Grow]_after_1764626687.jpg) | Increases the object's scale (grows the object)_after_1764626687.jpg]. |
-| **Pinch In** | ![Object Shrunk](images/screenshot_PinchIn [Shrink]_after_1764626702.jpg) | Decreases the object's scale (shrinks the object)_after_1764626702.jpg]. |
+| **Tap** | ![Object Placed](images/screenshot_Tap [Place Object]_after_1764626642.png) | Places a new 3D object on the screen and selects it. |
+| **Long Press** | ![Object Reset](images/screenshot_LongPress [Reset]_after_1764626659.png) | Resets the object's scale and rotation back to initial values. |
+| **Drag & Drop** | ![Object Moved](images/screenshot_DragDrop [Move Object]_after_1764626674.png) | Moves the object to a new screen location (note the change in coordinates in the Coords Bridge). |
+| **Pinch Out** | ![Object Grown](images/screenshot_PinchOut [Grow]_after_1764626687.png) | Increases the object's scale (grows the object). |
+| **Pinch In** | ![Object Shrunk](images/screenshot_PinchIn [Shrink]_after_1764626702.png) | Decreases the object's scale (shrinks the object). |
