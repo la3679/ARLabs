@@ -1,0 +1,7 @@
+{
+  "name": "AR Gesture Lab",
+  "description": "A React-based Augmented Reality application featuring touch gestures (tap, drag, pinch, rotate) to manipulate 3D objects with real-time coordinate feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
